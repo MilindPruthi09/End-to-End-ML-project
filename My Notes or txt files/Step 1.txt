@@ -1,0 +1,6 @@
+1. Setup the GitHub repository.
+	(a) Create a new environment
+	(b) setup.py (importance of it)
+	(c) requirements.txt
+
+2. Created src folder and build the packages.
